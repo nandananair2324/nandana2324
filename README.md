@@ -16,9 +16,9 @@ I'm an Electronics and Communication Engineering undergraduate passionate about 
 - **Interests:** Embedded Systems, IoT, Digital VLSI and Machine Learning.
 
 ### 📫 How to reach me?
-- **LinkedIn:** [linkedin.com/in/nandana-nair-88431a2a6]
-- **Email:** [23BLL15727@rit.ac.in]
-- **GitHub:** [(https://github.com/nandananair2324)]
+- **LinkedIn:** linkedin.com/in/nandana-nair-88431a2a6
+- **Email:** 23bl15727@rit.ac.in
+- **GitHub:** https://github.com/nandananair2324
 
 ---
 ⭐ Always curious, always learning, and building something new!
