@@ -18,7 +18,7 @@ I'm an Electronics and Communication Engineering undergraduate passionate about 
 ### 📫 How to reach me?
 - **LinkedIn:** [linkedin.com/in/nandana-nair-88431a2a6]
 - **Email:** [23BLL15727@rit.ac.in]
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [(https://github.com/nandananair2324)]
 
 ---
 ⭐ Always curious, always learning, and building something new!
